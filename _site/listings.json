@@ -3,7 +3,14 @@
     "listing": "/index.html",
     "items": [
       "/posts/post-with-code/index.html",
+      "/quarto/posts/welcome/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/quarto/index.html",
+    "items": [
+      "/quarto/posts/welcome/index.html"
     ]
   }
 ]
