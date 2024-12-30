@@ -1,0 +1,12 @@
+{
+  "hash": "ff7ac6a53bb5d5f0edf2c34ecb3257ca",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      # 添加这行以确保显示代码\n  output: true    # 添加这行以显示输出（如果有的话）\n  warning: false  # 隐藏警告\n  error: false    # 隐藏错误\njupyter: python3\n---\n\n\n\n\n\n\n# 01.chipotle Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/01.chipotle Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 01.occupion Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/01.occupion Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 01.world food facts Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/01.world food facts Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 02_chipotle_Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/02_chipotle_Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 02_euro12_Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/02_euro12_Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 03_chipotle_Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/03_chipotle_Exercises.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 03_scores_Exercises\n\n\n\n\n{{< embed \"labs/Labexercises/03_scores_Exercises.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "labs_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

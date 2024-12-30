@@ -1,0 +1,12 @@
+{
+  "hash": "7fc6faf7da1fd152a0b1795850c05926",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      # 添加这行以确保显示代码\n  output: true    # 添加这行以显示输出（如果有的话）\n  warning: false  # 隐藏警告\n  error: false    # 隐藏错误\njupyter: python3\n---\n\n\n\n\n\n\n# practice_1\n\n\n\n\n{{< embed \"labs/Practice/practice_1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practical2\n\n\n\n\n{{< embed \"labs/Practice/practical2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice_3-1\n\n\n\n\n{{< embed \"labs/Practice/practice_3-1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice_3-2\n\n\n\n\n{{< embed \"labs/Practice/practice_3-2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practice_3-3\n\n\n\n\n{{< embed \"labs/Practice/practice_3-3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# practical_3\n\n\n\n\n{{< embed \"labs/Practice/practical_3.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# 4.IMDb_and_Douban_top-250_movie_datasets\n\n\n\n\n{{< embed \"labs/Practice/4.IMDb_and_Douban_top-250_movie_datasets.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "practice_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
