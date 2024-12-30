@@ -1,0 +1,47 @@
+---
+title: ""
+---
+
+::: {.content-block .about-section}
+# Hi, I'm Jiao Zirui!
+
+![](images/profile.jpg)
+
+My name is Jiao Zirui, and I'm 27 years old. I'm a person full of enthusiasm and vitality, with a wide range of interests and hobbies in life, which have greatly enriched my life experiences.
+:::
+
+::: {.content-block}
+## Interests & Reading
+
+When it comes to interests, reading is an indispensable part of my life. From literary masterpieces to science fiction novels, from historical biographies to philosophical thoughts, all kinds of books are the sources from which I draw knowledge and inspiration. Immersed in the world of books, it seems that I can travel through time and space, have conversations with the wise from ancient and modern times and all over the world, and feel the collisions of different cultures and ideas. Each book is a unique world. Reading has broadened my horizons, increased my knowledge, and cultivated my thinking ability and imagination.
+:::
+
+::: {.content-block}
+## Music & Arts
+
+Music is also one of my dearest loves. Whether it's the passionate rock music, the melodious classical music, or the rhythmic pop music, they can all touch my heartstrings. In my leisure time, I like to put on my headphones and listen to my favorite songs, allowing the melody of the music to take away the fatigue and troubles of life. For me, music is not only a form of entertainment but also an emotional sustenance and expression. It can convey emotions and power that are beyond words, enabling me to find inner peace and resonance in the melody.
+:::
+
+::: {.content-block}
+## Travel & Exploration
+
+Travel is also an activity that I'm keen on. I love to explore unknown places and appreciate the natural scenery and cultural landscapes of different regions. I once strolled in the ancient European towns, feeling the tranquility and elegance left by the passage of time. I also climbed the magnificent mountains, experiencing the uncanny workmanship of nature and my own insignificance and perseverance. Moreover, I delved into the mysterious tropical rainforests, marveling at the biodiversity and the wonder of the ecosystem. Each trip is a growth experience for me, making me understand and respect this colorful world more, and also allowing me to gain many precious memories and friendships.
+:::
+
+::: {.content-block}
+## Education
+
+In terms of my study and work experiences, I graduated from the Belarusian State University, majoring in Educational Management. During my school years, I studied professional knowledge diligently and actively participated in various academic activities and student organizations, which exercised my teamwork and communication abilities. Through continuous efforts, I achieved excellent academic results and won scholarships and honorary titles many times. These experiences not only laid a solid theoretical foundation for me but also cultivated my rigorous and serious learning attitude and problem-solving ability.
+:::
+
+::: {.content-block}
+## Work Experience
+
+After graduation, I entered Tiancheng Secondary Vocational School and worked as a head teacher and a liberal arts teacher. In my work, I gave full play to my professional advantages and actively participated in various projects and business expansions of the school. Facing the challenges and difficulties at work, I always maintained an optimistic and positive attitude and strived to find solutions. Through close cooperation with my colleagues and continuous learning of new knowledge and skills, I gradually grew into one of the core members of the team, contributed my own strength to the development of the school, and received the recognition and praise from my leaders and colleagues.
+:::
+
+::: {.content-block}
+## Looking Forward
+
+Looking back on the past years, both my interests and hobbies and my study and work experiences have shaped who I am today. I believe that these rich and colorful experiences will continue to guide me on my future life path, allowing me to move forward on the road of pursuing my dreams, meet more challenges and opportunities, and create a more wonderful chapter in my life.
+:::
